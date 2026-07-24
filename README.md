@@ -1,4 +1,4 @@
-# STK - Fullstack Menu Tree System
+# Fullstack Menu Tree System
 
 Aplikasi fullstack untuk manajemen *hierarchical menu tree* dengan dukungan kedalaman tak terbatas (*unlimited depth*). Dibangun khusus untuk Technical Test Solusi Teknologi Kreatif (STK) menggunakan **NestJS** (Backend) dan **Next.js** (Frontend).
 
